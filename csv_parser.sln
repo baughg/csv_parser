@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "idu_log_parser", "idu_log_parser\idu_log_parser.vcxproj", "{E4AB6995-838C-46C9-8CEE-3AE07AA83B5C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "csv_parser", "csv_parser\csv_parser.vcxproj", "{E4AB6995-838C-46C9-8CEE-3AE07AA83B5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

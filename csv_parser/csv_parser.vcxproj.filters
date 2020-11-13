@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="idu_log_parser.cpp">
+    <ClCompile Include="csv_parser.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
